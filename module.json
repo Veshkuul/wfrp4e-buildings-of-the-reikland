@@ -1,0 +1,14 @@
+{
+    "name": "wfrp4e-buildings-of-the-reikland",
+    "title": "WFRP4e - Buildings of the Reikland",
+    "description": "Buildings of the Reikland",
+    "version": "1.0.0",
+    "author": "Veshkuul",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "packs": [
+        
+    ],
+    "url": "https://github.com/Veshkuul/wfrp4e-buildings-of-the-reikland",
+    "manifest": "https://github.com/Veshkuul/wfrp4e-buildings-of-the-reikland/releases/download/1.0.0/module.json"
+}
